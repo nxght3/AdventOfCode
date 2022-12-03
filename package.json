@@ -1,5 +1,22 @@
 {
   "devDependencies": {
     "@types/node": "^18.11.10"
-  }
+  },
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxght3/AdventOfCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nxght3/AdventOfCode/issues"
+  },
+  "homepage": "https://github.com/nxght3/AdventOfCode#readme",
+  "description": ""
 }
